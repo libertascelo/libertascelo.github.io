@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+site.title: celo
+site.description: celo
+site.show_downloads: false
